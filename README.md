@@ -5,8 +5,6 @@ pour lire les réponses, on publie des questions et des réponses, on vote « Ut
 
 **Stack imposée** : Next.js 16 (App Router, React 19, TypeScript, Tailwind CSS 4) · Strapi v5 (TypeScript, API REST) · PostgreSQL 16.
 
-> Réalisé par **LAMJED GAIDI** — lamjed.gaidi070@gmail.com
-
 ![Accueil de la communauté](docs/screenshots/frontend-accueil.png)
 
 ---
